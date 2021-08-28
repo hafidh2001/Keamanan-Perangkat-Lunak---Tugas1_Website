@@ -1,0 +1,16 @@
+.container a {
+  text-decoration: none;
+}
+
+.container a button {
+  color: white;
+}
+
+.container h4,
+.container h6 {
+  text-align: center;
+}
+
+.container h6 {
+  color: rgba(15, 15, 15, 0.6);
+}
